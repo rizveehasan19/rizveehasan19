@@ -30,6 +30,7 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=rizveehasan19&show_icons=true&theme=prussian">
 </details>
+
 ### Feel free to reach out! :smiley:
 
 [<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rizvee19/)
