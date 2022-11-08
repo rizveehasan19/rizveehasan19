@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Md Rizvee Hasan</h1>
 <h3 align="center">Data professional from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizveehasan19&label=Profile%20views&color=0e75b6&style=flat" alt="rizveehasan19" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/rizveehasan19" target="blank"><img src="https://img.shields.io/twitter/follow/rizveehasan19?logo=twitter&style=for-the-badge" alt="rizveehasan19" /></a> </p>
 
