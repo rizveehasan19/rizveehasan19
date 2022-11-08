@@ -31,5 +31,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rizveehasan19&show_icons=true&theme=prussian">
 </details>
 ### Feel free to reach out! :smiley:
+
 [<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rizvee19/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:rizvee.hasan19@gmail.com)
