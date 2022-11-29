@@ -1,6 +1,6 @@
 ## Hello there, this is Rizvee! :wave:
 
-### Data Professional from Bangladesh with keen interest in Machine Learning and Artificial Intelligence
+### Data Professional from Bangladesh with keen interest in MLOps
 
 - :seedling: &nbsp; At present, I'm learning Machine Learning Algorithms along with implementations
 
